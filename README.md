@@ -9,6 +9,7 @@
 
 Observação: Base de dados fictícia somente para estudos.
 
+![Dashboard](Galeria/XBOX Subscription Sales Report Dashboard (Lab Project DIO).jpeg)
 
 
 
