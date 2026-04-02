@@ -9,7 +9,7 @@
 
 Observação: Base de dados fictícia somente para estudos.
 
-![Dashboard](Galeria/XBOX Subscription Sales Report Dashboard (Lab Project DIO).jpeg)
+<img src="Galeria/XBOX Subscription Sales Report Dashboard (Lab Project DIO).jpeg" alt="XBOX Subscription Sales Report Dashboard (Lab Project DIO)" width="500">
 
 
 
